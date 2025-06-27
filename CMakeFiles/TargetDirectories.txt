@@ -1,0 +1,6 @@
+/app/build/CMakeFiles/opencv_example.dir
+/app/build/CMakeFiles/edit_cache.dir
+/app/build/CMakeFiles/rebuild_cache.dir
+/app/build/lib/LCCV/CMakeFiles/liblccv.dir
+/app/build/lib/LCCV/CMakeFiles/edit_cache.dir
+/app/build/lib/LCCV/CMakeFiles/rebuild_cache.dir
